@@ -59,5 +59,5 @@
 
 ## 📫 Contato
 
-- LinkedIn: (https://www.linkedin.com/in/lislanny-silva/)  
+- LinkedIn: https://www.linkedin.com/in/lislanny-silva/  
 - Email: lislanny.tech@gmail.com
