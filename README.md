@@ -29,12 +29,11 @@
 </div>
 
 ---
-
 ## 📌 Projetos em destaque
 
 - 🕒 Relógio Digital (HTML, CSS e JavaScript)  
 - 🔐 Tela de Login  
-- 💻 Projetos acadêmicos  
+- 💻 Projetos acadêmicos
 
 ---
 
