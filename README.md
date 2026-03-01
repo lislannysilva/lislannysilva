@@ -4,8 +4,6 @@
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4B0082; margin-top: 10px;">
     Olá, eu sou a Lislanny Silva Alves 👋
 
-# 👩🏻‍💻 Lislanny Silva Alves
-
 **Estudante de Análise e Desenvolvimento de Sistemas | Futura Desenvolvedora Full Stack**
 
 Me chamo Lislanny Silva Alves, tenho 19 anos e sou estudante de tecnologia, apaixonada por programação e desenvolvimento web.
