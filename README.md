@@ -27,13 +27,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas e desenvolvendo
 
 ---
 
-## 📊 Estatísticas
-
-![Lislanny GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
-
----
+<p align="center"> <!-- Card de Atividade --> <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_title=false" alt="Estatísticas de Lislanny" width="400" style="margin:10px; border-radius:12px;"> </p> <p align="center"> <!-- Card de Principais Linguagens --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight" alt="Principais linguagens" width="400" style="margin:10px; border-radius:12px;"> </p> <p align="center"> <!-- Card de Contribuições Anuais --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=react-dark&hide_border=true" alt="Contribuições no GitHub" width="600" style="margin:10px; border-radius:12px;"> </p>
 
 ## 📫 Contato
 
