@@ -1,3 +1,9 @@
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=header" alt="Header Animado" style="border-radius: 10px;">
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4B0082; margin-top: 10px;">
+    Olá, eu sou a Lislanny Silva Alves 👋
+
 # 👩🏻‍💻 Lislanny Silva Alves
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Futura Desenvolvedora Full Stack**
@@ -9,16 +15,14 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas e desenvolvendo
 
 ## 🚀 Tecnologias que estou estudando
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block;">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
-  <img width<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="12" />="12" />
-  
+  <img align="center" alt="VSCode" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="MySQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
 ---
